@@ -1,0 +1,34 @@
+name: Create Release Archive
+
+on:
+  release:
+    types: [created]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create Archive
+        run: |
+          # Создаем папку с названием аддона
+          mkdir ItemStorageBrowser
+          
+          # Копируем основные файлы (lua, toc, xml) и папки (Media, Fonts и др.)
+          # Символ || : игнорирует ошибки, если какой-то папки не существует
+          cp -r *.toc *.lua *.xml Media Fonts Libs Sounds ItemStorageBrowser/ 2>/dev/null || :
+          
+          # Упаковываем в ZIP
+          zip -r ItemStorageBrowser.zip ItemStorageBrowser
+
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ItemStorageBrowser.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
