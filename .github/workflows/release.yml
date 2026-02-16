@@ -16,12 +16,13 @@ jobs:
 
       - name: Create Archive
         run: |
-          # Создаем папку с названием аддона
+          # Создаем целевую директорию
           mkdir ItemStorageBrowser
           
-          # Копируем основные файлы (lua, toc, xml) и папки (Media, Fonts и др.)
-          # Символ || : игнорирует ошибки, если какой-то папки не существует
-          cp -r *.toc *.lua *.xml Media Fonts Libs Sounds ItemStorageBrowser/ 2>/dev/null || :
+          # Копируем ВСЁ, кроме скрытых папок (.git, .github) и самого архива
+          # --exclude исключает ненужное
+          # . ItemStorageBrowser/ копирует всё из текущего места в папку аддона
+          rsync -av . ItemStorageBrowser/ --exclude '.git*' --exclude 'ItemStorageBrowser' --exclude 'ItemStorageBrowser.zip'
           
           # Упаковываем в ZIP
           zip -r ItemStorageBrowser.zip ItemStorageBrowser
