@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772378199
+ItemStorageDB_LastUpdate = 1772378262
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5333,7 +5333,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-02-28 22:08:42",
+        updated_at = "2026-03-01 17:17:19",
         money = 484,
         empty = 0,
         location = "Оргриммар",
@@ -5749,7 +5749,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 169,
+                count = 170,
                 details = {
                     quality = 1,
                     type = "",
@@ -5810,30 +5810,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
                 name = "Чешуя зеленого дракончика",
                 count = 7,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
-                name = "Толстая кожа",
-                count = 617,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
-                name = "Тяжелая шкура",
-                count = 105,
                 details = {
                     quality = 1,
                     type = "",
@@ -5975,9 +5951,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
-                name = "Черепаший панцирь",
-                count = 79,
+                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
+                name = "Толстая кожа",
+                count = 617,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
+                name = "Тяжелая шкура",
+                count = 105,
                 details = {
                     quality = 1,
                     type = "",
@@ -5989,7 +5977,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
                 name = "Обработанная плотная шкура",
-                count = 30,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -6001,7 +5989,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 300,
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
@@ -6026,6 +6014,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
                 name = "Толстая чешуя мурлока",
                 count = 52,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
+                name = "Черепаший панцирь",
+                count = 79,
                 details = {
                     quality = 1,
                     type = "",
