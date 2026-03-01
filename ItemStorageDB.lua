@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772388286
+ItemStorageDB_LastUpdate = 1772388318
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7718,7 +7718,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-01 17:20:39",
+        updated_at = "2026-03-01 20:04:57",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7726,7 +7726,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
                 name = "Альтеракский сыр",
-                count = 27,
+                count = 47,
                 details = {
                     quality = 1,
                     type = "",
