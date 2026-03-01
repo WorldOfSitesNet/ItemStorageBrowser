@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772388318
+ItemStorageDB_LastUpdate = 1772388349
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3173,7 +3173,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-01 19:41:34",
+        updated_at = "2026-03-01 20:05:39",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3479,6 +3479,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
+                name = "Первородный огонь",
+                count = 108,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
                 name = "Мощный амулет",
                 count = 3,
@@ -3587,71 +3599,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
-                name = "Первородный огонь",
-                count = 108,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
                 count = 58,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
-                name = "Частица Тени",
-                count = 227,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
-                name = "Дыхание ветра",
-                count = 101,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
-                name = "Лимфа нежити",
-                count = 56,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
-                name = "Магическая сфера воды",
-                count = 46,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -3697,7 +3649,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 50,
+                count = 52,
                 details = {
                     quality = 2,
                     type = "",
@@ -3746,6 +3698,66 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                 name = "Кристаллизованная тьма",
                 count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
+                name = "Частица Огня",
+                count = 35,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
+                name = "Частица Тени",
+                count = 227,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
+                name = "Дыхание ветра",
+                count = 101,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
+                name = "Лимфа нежити",
+                count = 56,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
+                name = "Магическая сфера воды",
+                count = 46,
                 details = {
                     quality = 1,
                     type = "",
@@ -3830,18 +3842,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22576:0:0:0:0:0:0:0:10|h[Частица Маны]|h|r",
                 name = "Частица Маны",
                 count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
-                name = "Частица Огня",
-                count = 35,
                 details = {
                     quality = 1,
                     type = "",
