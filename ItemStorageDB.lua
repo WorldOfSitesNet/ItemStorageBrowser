@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772380386
+ItemStorageDB_LastUpdate = 1772383528
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4808,7 +4808,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-02-27 06:27:24",
+        updated_at = "2026-03-01 18:45:05",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -4852,7 +4852,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19236:0:0:0:0:0:0:0:10|h[Восьмерка из колоды Зверей]|h|r",
                 name = "Восьмерка из колоды Зверей",
-                count = 7,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "",
@@ -4864,7 +4864,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19265:0:0:0:0:0:0:0:10|h[Восьмерка из колоды Полководцев]|h|r",
                 name = "Восьмерка из колоды Полководцев",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "",
@@ -4876,7 +4876,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19284:0:0:0:0:0:0:0:10|h[Восьмерка из колоды Порталов]|h|r",
                 name = "Восьмерка из колоды Порталов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -4912,7 +4912,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19259:0:0:0:0:0:0:0:10|h[Двойка из колоды Полководцев]|h|r",
                 name = "Двойка из колоды Полководцев",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 3,
                     type = "",
@@ -4924,7 +4924,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19278:0:0:0:0:0:0:0:10|h[Двойка из колоды Порталов]|h|r",
                 name = "Двойка из колоды Порталов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -4936,7 +4936,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19269:0:0:0:0:0:0:0:10|h[Двойка из колоды Элементалей]|h|r",
                 name = "Двойка из колоды Элементалей",
-                count = 8,
+                count = 9,
                 details = {
                     quality = 3,
                     type = "",
@@ -4948,7 +4948,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19233:0:0:0:0:0:0:0:10|h[Пятерка из колоды Зверей]|h|r",
                 name = "Пятерка из колоды Зверей",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 3,
                     type = "",
@@ -4960,7 +4960,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19262:0:0:0:0:0:0:0:10|h[Пятерка из колоды Полководцев]|h|r",
                 name = "Пятерка из колоды Полководцев",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "",
@@ -4972,7 +4972,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19281:0:0:0:0:0:0:0:10|h[Пятерка из колоды Порталов]|h|r",
                 name = "Пятерка из колоды Порталов",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "",
@@ -5006,21 +5006,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:19283:0:0:0:0:0:0:0:10|h[Семерка из колоды Порталов]|h|r",
-                name = "Семерка из колоды Порталов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:19231:0:0:0:0:0:0:0:10|h[Тройка из колоды Зверей]|h|r",
                 name = "Тройка из колоды Зверей",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -5032,7 +5020,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19260:0:0:0:0:0:0:0:10|h[Тройка из колоды Полководцев]|h|r",
                 name = "Тройка из колоды Полководцев",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "",
@@ -5044,7 +5032,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19279:0:0:0:0:0:0:0:10|h[Тройка из колоды Порталов]|h|r",
                 name = "Тройка из колоды Порталов",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "",
@@ -5056,7 +5044,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
                 name = "Тройка из колоды Элементалей",
-                count = 5,
+                count = 7,
                 details = {
                     quality = 3,
                     type = "",
@@ -5104,19 +5092,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19271:0:0:0:0:0:0:0:10|h[Четверка из колоды Элементалей]|h|r",
                 name = "Четверка из колоды Элементалей",
-                count = 10,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31887:0:0:0:0:0:0:0:10|h[Шестерка из колоды Благословений]|h|r",
-                name = "Шестерка из колоды Благословений",
-                count = 1,
+                count = 13,
                 details = {
                     quality = 3,
                     type = "",
@@ -5128,7 +5104,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19234:0:0:0:0:0:0:0:10|h[Шестерка из колоды Зверей]|h|r",
                 name = "Шестерка из колоды Зверей",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "",
@@ -5140,60 +5116,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19263:0:0:0:0:0:0:0:10|h[Шестерка из колоды Полководцев]|h|r",
                 name = "Шестерка из колоды Полководцев",
-                count = 1,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
-                name = "Колода Магов",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
-                name = "Колода Демонов",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
-                name = "Колода Разбойников",
-                count = 10,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -5212,12 +5140,108 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19273:0:0:0:0:0:0:0:10|h[Шестерка из колоды Элементалей]|h|r",
                 name = "Шестерка из колоды Элементалей",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
+                name = "Колода Демонов",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19287:0:0:0:0:0:0:0:10|h[Карта Новолуния: Героизм]|h|r",
+                name = "Карта Новолуния: Героизм",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19290:0:0:0:0:0:0:0:10|h[Карта Новолуния: Круговерть Пустоты]|h|r",
+                name = "Карта Новолуния: Круговерть Пустоты",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19289:0:0:0:0:0:0:0:10|h[Карта Новолуния: Водоворот]|h|r",
+                name = "Карта Новолуния: Водоворот",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
+                name = "Колода Разбойников",
+                count = 10,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
+                name = "Колода Магов",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
                     retention = "",
                 },
             },
