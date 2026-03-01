@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772387857
+ItemStorageDB_LastUpdate = 1772387888
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12974,7 +12974,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-01 19:40:50",
+        updated_at = "2026-03-01 19:57:53",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -13342,7 +13342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 77,
+                count = 84,
                 details = {
                     quality = 1,
                     type = "",
@@ -13354,7 +13354,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 213,
+                count = 223,
                 details = {
                     quality = 1,
                     type = "",
@@ -13366,7 +13366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 170,
+                count = 173,
                 details = {
                     quality = 1,
                     type = "",
