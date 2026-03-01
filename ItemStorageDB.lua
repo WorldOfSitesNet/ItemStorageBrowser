@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772385161
+ItemStorageDB_LastUpdate = 1772385282
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10634,7 +10634,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-01 17:41:09",
+        updated_at = "2026-03-01 19:14:14",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11944,6 +11944,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4307:0:0:0:0:0:0:0:10|h[Тяжелые льняные перчатки]|h|r",
+                name = "Тяжелые льняные перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2580:0:0:0:0:0:0:0:10|h[Усиленная льняная накидка]|h|r",
+                name = "Усиленная льняная накидка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4310:0:0:0:0:0:0:0:10|h[Тяжелые шерстяные перчатки]|h|r",
+                name = "Тяжелые шерстяные перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "12",
                     retention = "",
                 },
             },
