@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772395286
+ItemStorageDB_LastUpdate = 1772398686
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6110,13 +6110,13 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-01 21:30:06",
-        money = 3,
+        updated_at = "2026-03-01 22:57:59",
+        money = 512,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:4|h[Камень возвращения]|h|r",
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:5|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
                 count = 1,
                 details = {
@@ -6128,9 +6128,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20812:0:0:0:0:0:0:0:4|h[Рваная шкура]|h|r",
-                name = "Рваная шкура",
-                count = 6,
+                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:5|h[Сломанная ветвь]|h|r",
+                name = "Сломанная ветвь",
+                count = 9,
                 details = {
                     quality = 0,
                     type = "",
@@ -6140,109 +6140,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20813:0:0:0:0:0:0:0:4|h[Зуб рыси]|h|r",
-                name = "Зуб рыси",
+                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:5|h[Раздавленный цветок]|h|r",
+                name = "Раздавленный цветок",
                 count = 5,
                 details = {
                     quality = 0,
                     type = "",
                     subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20797:0:0:0:0:0:0:0:4|h[Ошейник рыси]|h|r",
-                name = "Ошейник рыси",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:4|h[Сломанная ветвь]|h|r",
-                name = "Сломанная ветвь",
-                count = 32,
-                details = {
-                    quality = 0,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20482:0:0:0:0:0:0:0:4|h[Магический осколок]|h|r",
-                name = "Магический осколок",
-                count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:4|h[Раздавленный цветок]|h|r",
-                name = "Раздавленный цветок",
-                count = 20,
-                details = {
-                    quality = 0,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:21018:0:0:0:0:0:0:0:4|h[Дешевые плетеные перчатки]|h|r",
-                name = "Дешевые плетеные перчатки",
-                count = 1,
-                details = {
-                    quality = 0,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:21017:0:0:0:0:0:0:0:4|h[Дешевые плетеные штаны]|h|r",
-                name = "Дешевые плетеные штаны",
-                count = 1,
-                details = {
-                    quality = 0,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:21003:0:0:0:0:0:0:0:4|h[Испачканные наручи]|h|r",
-                name = "Испачканные наручи",
-                count = 1,
-                details = {
-                    quality = 0,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:21014:0:0:0:0:0:0:0:4|h[Никудышный кожаный жилет]|h|r",
-                name = "Никудышный кожаный жилет",
-                count = 1,
-                details = {
-                    quality = 0,
-                    type = "4",
-                    subtype = "Кожа",
                     required_level = "",
                     retention = "",
                 },
@@ -12572,7 +12476,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-01 17:32:07",
+        updated_at = "2026-03-01 22:08:49",
         money = 79245,
         empty = 15,
         location = "Оргриммар",
@@ -12640,7 +12544,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 20,
+                count = 16,
                 details = {
                     quality = 2,
                     type = "",
@@ -12652,7 +12556,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
                 name = "Дренейская кожаная сума",
-                count = 70,
+                count = 58,
                 details = {
                     quality = 2,
                     type = "",
