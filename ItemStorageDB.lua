@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772451949
+ItemStorageDB_LastUpdate = 1772451983
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6962,7 +6962,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-01 19:45:16",
+        updated_at = "2026-03-02 13:46:09",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7126,7 +7126,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 2,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -7138,7 +7138,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 2,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -7150,7 +7150,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 76,
+                count = 78,
                 details = {
                     quality = 1,
                     type = "",
@@ -7162,7 +7162,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 39,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -7642,7 +7642,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
                 name = "Крепкое зелье тролльей крови",
-                count = 47,
+                count = 46,
                 details = {
                     quality = 1,
                     type = "",
