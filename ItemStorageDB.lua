@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772490112
+ItemStorageDB_LastUpdate = 1772490294
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11063,7 +11063,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-02 16:57:41",
+        updated_at = "2026-03-03 00:24:46",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12122,6 +12122,18 @@ ItemStorageDB = {
                     subtype = "Топор",
                     required_level = "5",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14167:0:0:0:0:0:1015:0:10|h[Накидка пирата со знаком кита]|h|r",
+                name = "Накидка пирата со знаком кита",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "14",
+                    retention = "",
                 },
             },
             {
