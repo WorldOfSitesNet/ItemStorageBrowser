@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772458844
+ItemStorageDB_LastUpdate = 1772458875
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6962,7 +6962,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-02 13:46:09",
+        updated_at = "2026-03-02 15:41:01",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -6983,6 +6983,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40212:0:0:0:0:0:0:0:10|h[Зелье дикой магии]|h|r",
                 name = "Зелье дикой магии",
                 count = 9,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
+                name = "Рунический флакон с зельем маны",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -7018,7 +7030,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 42,
+                count = 47,
                 details = {
                     quality = 1,
                     type = "",
@@ -7030,7 +7042,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 72,
+                count = 89,
                 details = {
                     quality = 1,
                     type = "",
@@ -7048,6 +7060,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
+                name = "Огромный флакон с зельем маны",
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "49",
                     retention = "",
                 },
             },
@@ -7072,18 +7096,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
-                name = "Большой флакон с лечебным зельем",
-                count = 36,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
                     retention = "",
                 },
             },
@@ -7132,18 +7144,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
-                name = "Средний флакон с лечебным зельем",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "21",
                     retention = "",
                 },
             },
@@ -7642,7 +7642,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
                 name = "Крепкое зелье тролльей крови",
-                count = 46,
+                count = 45,
                 details = {
                     quality = 1,
                     type = "",
