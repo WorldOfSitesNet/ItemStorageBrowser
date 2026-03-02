@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772482257
+ItemStorageDB_LastUpdate = 1772482409
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6110,13 +6110,13 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-02 00:45:30",
-        money = 1121,
+        updated_at = "2026-03-02 22:13:16",
+        money = 1330,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:7|h[Камень возвращения]|h|r",
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:9|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
                 count = 1,
                 details = {
@@ -6128,9 +6128,57 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:21807:0:0:0:0:0:0:0:7|h[Непомеченное письмо]|h|r",
-                name = "Непомеченное письмо",
+                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:9|h[Крохотный флакон с лечебным зельем]|h|r",
+                name = "Крохотный флакон с лечебным зельем",
+                count = 9,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22473:0:0:0:0:0:0:0:9|h[Карающий жезл Антеола]|h|r",
+                name = "Карающий жезл Антеола",
                 count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22413:0:0:0:0:0:0:0:9|h[Оружие син\'дорай]|h|r",
+                name = "Оружие син\'дорай",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:159:0:0:0:0:0:0:0:9|h[Освежающая ключевая вода]|h|r",
+                name = "Освежающая ключевая вода",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:9|h[Льняной материал]|h|r",
+                name = "Льняной материал",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
