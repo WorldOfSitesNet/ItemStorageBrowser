@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772479846
+ItemStorageDB_LastUpdate = 1772480178
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17714,7 +17714,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-02 16:26:31",
+        updated_at = "2026-03-02 21:35:56",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -17888,18 +17888,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:21932:0:0:0:0:0:0:0:10|h[Тяжелое медное кольцо]|h|r",
-                name = "Тяжелое медное кольцо",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20906:0:0:0:0:0:0:0:10|h[Оплетенное медное кольцо]|h|r",
                 name = "Оплетенное медное кольцо",
                 count = 1,
@@ -17980,18 +17968,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12052:0:0:0:0:0:0:0:10|h[Кольцо луны]|h|r",
-                name = "Кольцо луны",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "16",
                     retention = "",
                 },
             },
