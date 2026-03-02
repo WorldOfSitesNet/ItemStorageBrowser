@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772462897
+ItemStorageDB_LastUpdate = 1772462929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9896,7 +9896,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-01 19:44:28",
+        updated_at = "2026-03-02 16:48:45",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10138,6 +10138,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3396:0:0:0:0:0:0:0:10|h[Рецепт: малый эликсир ловкости]|h|r",
+                name = "Рецепт: малый эликсир ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "18",
                     retention = "",
                 },
             },
