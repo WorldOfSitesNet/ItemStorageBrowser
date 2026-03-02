@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772488778
+ItemStorageDB_LastUpdate = 1772488840
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7010,7 +7010,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-02 16:47:01",
+        updated_at = "2026-03-03 00:00:10",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7210,7 +7210,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 9,
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -7282,12 +7282,24 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
-                count = 53,
+                count = 54,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "3",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3382:0:0:0:0:0:0:0:10|h[Слабое зелье тролльей крови]|h|r",
+                name = "Слабое зелье тролльей крови",
+                count = 70,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -7390,7 +7402,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
                 name = "Эликсир мудрости",
-                count = 68,
+                count = 111,
                 details = {
                     quality = 1,
                     type = "",
@@ -7436,21 +7448,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3382:0:0:0:0:0:0:0:10|h[Слабое зелье тролльей крови]|h|r",
-                name = "Слабое зелье тролльей крови",
-                count = 70,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
-                count = 76,
+                count = 87,
                 details = {
                     quality = 1,
                     type = "",
