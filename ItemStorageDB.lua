@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772488285
+ItemStorageDB_LastUpdate = 1772488347
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8120,7 +8120,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-02 16:45:57",
+        updated_at = "2026-03-02 23:52:03",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8342,66 +8342,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
-                name = "Сырая мифрилоголовая форель",
-                count = 85,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
-                name = "Сырая блестящая рыбка",
-                count = 49,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
-                name = "Медуза",
-                count = 50,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
-                name = "Сырой острозубый илистый луциан",
-                count = 13,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
-                name = "Сырой пятнистый желтохвост",
-                count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                 name = "Сырой шалфокунь",
                 count = 10,
@@ -8426,6 +8366,90 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
+                name = "Сырая мифрилоголовая форель",
+                count = 85,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
+                name = "Сырая каменношкурая треска",
+                count = 97,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
+                name = "Сырой солнечный лосось",
+                count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
+                name = "Сырой пятнистый желтохвост",
+                count = 122,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
+                name = "Медуза",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
+                name = "Загадочная рыба",
+                count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
+                name = "Зимний кальмар",
+                count = 25,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
                 name = "Пещерная крыса",
                 count = 8,
@@ -8434,6 +8458,30 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
+                name = "Сырая блестящая рыбка",
+                count = 49,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
+                name = "Сырой острозубый илистый луциан",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
