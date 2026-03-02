@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772490630
+ItemStorageDB_LastUpdate = 1772490692
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9098,7 +9098,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-02 23:59:29",
+        updated_at = "2026-03-03 00:31:04",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9202,7 +9202,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9219,18 +9219,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
-                name = "Факел Остен",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "53",
                     retention = "",
                 },
@@ -9344,6 +9332,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
+                name = "Зов небес",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
+                name = "Пугач маленького Тимми",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
                 name = "Большой магический жезл",
                 count = 2,
@@ -9404,6 +9416,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
+                name = "Факел Остен",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
                 name = "Арбалет Ищущий Сердце",
                 count = 3,
@@ -9440,14 +9464,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
+                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
+                name = "Железноткач",
                 count = 3,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
+                    subtype = "Огнестрельное",
+                    required_level = "29",
                     retention = "",
                 },
             },
@@ -9478,7 +9502,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9488,26 +9512,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
-                name = "Зов небес",
-                count = 2,
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 3,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Жезл",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
-                name = "Пугач маленького Тимми",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
+                    subtype = "Арбалет",
+                    required_level = "43",
                     retention = "",
                 },
             },
@@ -9544,18 +9556,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
-                name = "Железноткач",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "29",
                     retention = "",
                 },
             },
