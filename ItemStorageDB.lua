@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772530464
+ItemStorageDB_LastUpdate = 1772530586
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7907,7 +7907,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-03 11:30:42",
+        updated_at = "2026-03-03 11:36:04",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8077,6 +8077,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
