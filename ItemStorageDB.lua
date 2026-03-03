@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772523501
+ItemStorageDB_LastUpdate = 1772529283
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4247,7 +4247,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-03 00:03:01",
+        updated_at = "2026-03-03 11:14:14",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -10028,7 +10028,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-03 00:01:40",
+        updated_at = "2026-03-03 10:18:48",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10282,18 +10282,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "47",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3396:0:0:0:0:0:0:0:10|h[Рецепт: малый эликсир ловкости]|h|r",
-                name = "Рецепт: малый эликсир ловкости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "18",
                     retention = "",
                 },
             },
@@ -12962,7 +12950,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-03 00:16:03",
+        updated_at = "2026-03-03 10:30:02",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
