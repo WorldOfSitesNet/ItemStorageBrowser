@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772530221
+ItemStorageDB_LastUpdate = 1772530252
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7907,7 +7907,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-03 11:30:12",
+        updated_at = "2026-03-03 11:30:42",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7927,7 +7927,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                 name = "Гномский армейский нож",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
