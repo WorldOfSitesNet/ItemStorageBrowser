@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772574783
+ItemStorageDB_LastUpdate = 1772574824
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3173,9 +3173,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-03 14:56:05",
+        updated_at = "2026-03-03 23:53:20",
         money = 9680,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -3361,7 +3361,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 138,
+                count = 136,
                 details = {
                     quality = 2,
                     type = "",
@@ -3587,6 +3587,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
+                name = "Маленькая блестящая жемчужина",
+                count = 61,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22576:0:0:0:0:0:0:0:10|h[Частица Маны]|h|r",
                 name = "Частица Маны",
                 count = 10,
@@ -3652,18 +3664,6 @@ ItemStorageDB = {
                 count = 46,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
-                name = "Маленькая блестящая жемчужина",
-                count = 61,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
