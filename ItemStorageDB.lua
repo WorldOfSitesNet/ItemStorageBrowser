@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772531341
+ItemStorageDB_LastUpdate = 1772531643
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3866,7 +3866,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-03-03 11:29:19",
+        updated_at = "2026-03-03 11:53:36",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -4198,7 +4198,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
-                count = 92,
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
