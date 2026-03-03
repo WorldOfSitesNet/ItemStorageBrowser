@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772553663
+ItemStorageDB_LastUpdate = 1772553995
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9599,7 +9599,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-02 20:34:20",
+        updated_at = "2026-03-03 18:06:13",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -9613,18 +9613,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "58",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
-                name = "Простое волшебное масло",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
                     retention = "",
                 },
             },
@@ -10028,18 +10016,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
                 count = 290,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
-                name = "Пыль провидения",
-                count = 50,
                 details = {
                     quality = 1,
                     type = "",
