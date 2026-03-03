@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772553995
+ItemStorageDB_LastUpdate = 1772554057
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18014,7 +18014,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-03 01:22:40",
+        updated_at = "2026-03-03 18:07:16",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18418,7 +18418,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
                 name = "Сверкающее ожерелье",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "4",
