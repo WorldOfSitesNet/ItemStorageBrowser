@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772622263
+ItemStorageDB_LastUpdate = 1772622325
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-03 00:28:30",
+        updated_at = "2026-03-04 13:05:04",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2023,7 +2023,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2287,7 +2287,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2693,18 +2693,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
-                name = "Клинок фанатика",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "29",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
                 name = "Коготь Тенеманта",
                 count = 2,
@@ -2857,6 +2845,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "31",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
+                name = "Клинок фанатика",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "29",
                     retention = "Одноручное",
                 },
             },
