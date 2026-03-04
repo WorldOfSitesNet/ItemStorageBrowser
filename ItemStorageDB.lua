@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772647643
+ItemStorageDB_LastUpdate = 1772647704
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17870,7 +17870,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-04 13:40:19",
+        updated_at = "2026-03-04 20:08:20",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18130,7 +18130,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
                 name = "Элегантное серебряное кольцо",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18208,18 +18208,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
-                name = "Изысканное ожерелье тигрового глаза",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -18376,18 +18364,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
-                name = "Бронзовое кольцо силы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "18",
                     retention = "",
                 },
             },
