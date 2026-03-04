@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772630536
+ItemStorageDB_LastUpdate = 1772630597
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4319,7 +4319,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-04 13:00:05",
+        updated_at = "2026-03-04 15:22:59",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4469,6 +4469,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
+                name = "Камень теней",
+                count = 169,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
                 count = 207,
@@ -4519,7 +4531,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 149,
+                count = 152,
                 details = {
                     quality = 2,
                     type = "",
@@ -4531,7 +4543,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 137,
+                count = 134,
                 details = {
                     quality = 2,
                     type = "",
@@ -4544,18 +4556,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
                 count = 97,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
-                name = "Камень теней",
-                count = 169,
                 details = {
                     quality = 2,
                     type = "",
