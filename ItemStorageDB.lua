@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772625045
+ItemStorageDB_LastUpdate = 1772625076
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-04 13:20:20",
+        updated_at = "2026-03-04 13:51:06",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1949,18 +1949,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
-                name = "Маячащий чекан",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "26",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 1,
@@ -1999,7 +1987,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2081,30 +2069,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
-                name = "Фамильный щит Гарреттов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
                 count = 1,
@@ -2113,18 +2077,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 2,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
                     retention = "",
                 },
             },
@@ -2141,6 +2093,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 2,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                 name = "Эгида Штормграда",
                 count = 2,
@@ -2149,6 +2113,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
+                name = "Фамильный щит Гарреттов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -2652,6 +2640,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Меч",
+                    required_level = "26",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
+                name = "Маячащий чекан",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
                     required_level = "26",
                     retention = "Одноручное",
                 },
