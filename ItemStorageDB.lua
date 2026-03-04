@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772623605
+ItemStorageDB_LastUpdate = 1772623668
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9584,7 +9584,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-03 19:01:56",
+        updated_at = "2026-03-04 13:27:23",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9746,6 +9746,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4414:0:0:0:0:0:0:0:10|h[Схема: переносной бронзовый миномет]|h|r",
+                name = "Схема: переносной бронзовый миномет",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
                 name = "Схема: динамит \"Pro-100-брос\"",
                 count = 2,
@@ -9778,6 +9790,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3611:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные сапоги]|h|r",
+                name = "Чертеж: зеленые железные сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -10012,7 +10036,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
                 name = "Рецепт: эликсир силы огра",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
