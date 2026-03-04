@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772648732
+ItemStorageDB_LastUpdate = 1772648793
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13082,7 +13082,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-04 20:24:18",
+        updated_at = "2026-03-04 20:26:05",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13198,7 +13198,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 86,
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
@@ -13210,7 +13210,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 64,
+                count = 60,
                 details = {
                     quality = 1,
                     type = "",
