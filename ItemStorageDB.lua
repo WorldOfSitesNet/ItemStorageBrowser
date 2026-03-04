@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772647370
+ItemStorageDB_LastUpdate = 1772647552
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16481,7 +16481,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-04 14:42:41",
+        updated_at = "2026-03-04 20:05:41",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16699,18 +16699,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
-                name = "Сотворенный землей килт",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "55",
                     retention = "",
                 },
             },
@@ -17353,7 +17341,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                 name = "Темнотканые брюки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -17641,7 +17629,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -17659,6 +17647,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
+                name = "Сотворенный землей килт",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "55",
                     retention = "",
                 },
             },
