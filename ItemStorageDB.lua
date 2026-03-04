@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772622446
+ItemStorageDB_LastUpdate = 1772622567
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15905,7 +15905,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-04 01:38:30",
+        updated_at = "2026-03-04 13:09:10",
         money = 13936,
         empty = 0,
         location = "Оргриммар",
@@ -16235,6 +16235,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
+                name = "Латная боевая перчатка Хаку",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13099:929:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                 name = "Мокасины Белого кролика",
                 count = 1,
@@ -16333,18 +16345,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
                 name = "Сотворенный землей килт",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:15062:0:0:0:0:0:0:0:10|h[Поножи дьявозавра]|h|r",
-                name = "Поножи дьявозавра",
                 count = 2,
                 details = {
                     quality = 3,
@@ -16487,18 +16487,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
-                name = "Перчатки Волшебного кулака",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:18743:0:0:0:0:0:0:0:10|h[Благодатная накидка]|h|r",
                 name = "Благодатная накидка",
                 count = 1,
@@ -16597,7 +16585,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -16699,6 +16687,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "18",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
+                name = "Перчатки Волшебного кулака",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -16835,6 +16835,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:15062:0:0:0:0:0:0:0:10|h[Поножи дьявозавра]|h|r",
+                name = "Поножи дьявозавра",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
                 name = "Набедренники Мрачнокрылого",
                 count = 1,
@@ -16951,6 +16963,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3835:0:0:0:0:0:0:0:10|h[Зеленые железные наручи]|h|r",
+                name = "Зеленые железные наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4042:0:0:0:0:0:0:0:10|h[Перчатки утренней зари]|h|r",
+                name = "Перчатки утренней зари",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "34",
                     retention = "",
                 },
             },
@@ -17299,42 +17335,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "46",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
-                name = "Латная боевая перчатка Хаку",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3835:0:0:0:0:0:0:0:10|h[Зеленые железные наручи]|h|r",
-                name = "Зеленые железные наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4042:0:0:0:0:0:0:0:10|h[Перчатки утренней зари]|h|r",
-                name = "Перчатки утренней зари",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "34",
                     retention = "",
                 },
             },
