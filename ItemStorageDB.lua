@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772749860
+ItemStorageDB_LastUpdate = 1772750102
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11171,7 +11171,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-05 21:40:08",
+        updated_at = "2026-03-06 00:34:46",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11407,7 +11407,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3292:1892:0:0:0:0:0:0:10|h[Мундир предков]|h|r",
                 name = "Мундир предков",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -11809,18 +11809,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "7",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4307:931:0:0:0:0:0:0:10|h[Тяжелые льняные перчатки]|h|r",
-                name = "Тяжелые льняные перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "5",
                     retention = "",
                 },
             },
@@ -12684,18 +12672,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кожа",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6267:0:0:0:0:0:754:0:10|h[Штаны Посвященного со знаком совы]|h|r",
-                name = "Штаны Посвященного со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "7",
                     retention = "",
                 },
