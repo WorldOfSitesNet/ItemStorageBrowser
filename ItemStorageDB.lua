@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772735715
+ItemStorageDB_LastUpdate = 1772735987
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16457,7 +16457,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-04 20:05:41",
+        updated_at = "2026-03-05 20:39:30",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17005,7 +17005,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
