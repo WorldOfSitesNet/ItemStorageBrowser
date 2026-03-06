@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772816045
+ItemStorageDB_LastUpdate = 1772816167
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4319,9 +4319,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-05 18:23:09",
+        updated_at = "2026-03-06 18:55:38",
         money = 9572,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -4376,6 +4376,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
                 count = 339,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
+                name = "Грубый камень",
+                count = 457,
                 details = {
                     quality = 1,
                     type = "",
@@ -4471,7 +4483,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 169,
+                count = 171,
                 details = {
                     quality = 2,
                     type = "",
@@ -4483,7 +4495,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 207,
+                count = 221,
                 details = {
                     quality = 2,
                     type = "",
@@ -4495,7 +4507,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 189,
+                count = 206,
                 details = {
                     quality = 2,
                     type = "",
@@ -4531,7 +4543,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 152,
+                count = 154,
                 details = {
                     quality = 2,
                     type = "",
@@ -4543,7 +4555,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 134,
+                count = 136,
                 details = {
                     quality = 2,
                     type = "",
@@ -4613,21 +4625,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
-                name = "Грубый камень",
-                count = 407,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:24243:0:0:0:0:0:0:0:10|h[Адамантитовый порошок]|h|r",
-                name = "Адамантитовый порошок",
-                count = 41,
+                link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
+                name = "Необработанный камень",
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -4738,6 +4738,18 @@ ItemStorageDB = {
                 count = 28,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:24243:0:0:0:0:0:0:0:10|h[Адамантитовый порошок]|h|r",
+                name = "Адамантитовый порошок",
+                count = 41,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
