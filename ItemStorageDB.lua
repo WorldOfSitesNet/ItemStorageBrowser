@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772836631
+ItemStorageDB_LastUpdate = 1772836782
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14300,15 +14300,15 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-03-07 00:08:25",
-        money = 5071,
+        updated_at = "2026-03-07 00:39:31",
+        money = 14451,
         empty = 0,
-        location = "Тирисфальские леса",
+        location = "Оргриммар",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:10|h[Камень возвращения]|h|r",
-                name = "Камень возвращения",
-                count = 1,
+                link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
+                name = "Большой клык",
+                count = 98,
                 details = {
                     quality = 1,
                     type = "",
@@ -14318,9 +14318,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
-                name = "Крохотный флакон с лечебным зельем",
-                count = 1,
+                link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
+                name = "Малая пламенная железа",
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -14330,9 +14330,45 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22976:0:0:0:0:0:0:0:10|h[Мешочек магистра]|h|r",
-                name = "Мешочек магистра",
-                count = 1,
+                link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
+                name = "Острый коготь",
+                count = 64,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
+                name = "Большая ядовитая железа",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
+                name = "Малая ядовитая железа",
+                count = 26,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
+                name = "Огромная ядовитая железа",
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
