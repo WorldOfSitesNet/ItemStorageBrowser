@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772826286
+ItemStorageDB_LastUpdate = 1772826618
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14396,13 +14396,13 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-03-06 21:24:51",
-        money = 537,
+        updated_at = "2026-03-06 21:50:14",
+        money = 612,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:5|h[Камень возвращения]|h|r",
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:6|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
                 count = 1,
                 details = {
@@ -14414,9 +14414,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:5|h[Сломанная ветвь]|h|r",
+                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:6|h[Сломанная ветвь]|h|r",
                 name = "Сломанная ветвь",
-                count = 41,
+                count = 46,
                 details = {
                     quality = 0,
                     type = "",
@@ -14426,9 +14426,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:5|h[Раздавленный цветок]|h|r",
+                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:6|h[Раздавленный цветок]|h|r",
                 name = "Раздавленный цветок",
-                count = 24,
+                count = 27,
                 details = {
                     quality = 0,
                     type = "",
@@ -14438,7 +14438,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:21015:0:0:0:0:0:0:0:5|h[Дешевый плетеный пояс]|h|r",
+                link = "|cff9d9d9d|Hitem:21015:0:0:0:0:0:0:0:6|h[Дешевый плетеный пояс]|h|r",
                 name = "Дешевый плетеный пояс",
                 count = 4,
                 details = {
@@ -14450,8 +14450,68 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:21002:0:0:0:0:0:0:0:5|h[Испачканный пояс]|h|r",
+                link = "|cff9d9d9d|Hitem:21002:0:0:0:0:0:0:0:6|h[Испачканный пояс]|h|r",
                 name = "Испачканный пояс",
+                count = 1,
+                details = {
+                    quality = 0,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3661:0:0:0:0:0:0:0:6|h[Посох ручной работы]|h|r",
+                name = "Посох ручной работы",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:21005:0:0:0:0:0:0:0:6|h[Испачканные перчатки]|h|r",
+                name = "Испачканные перчатки",
+                count = 1,
+                details = {
+                    quality = 0,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20847:0:0:0:0:0:0:0:6|h[Частица призрака]|h|r",
+                name = "Частица призрака",
+                count = 6,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20848:0:0:0:0:0:0:0:6|h[Искрящаяся пыль]|h|r",
+                name = "Искрящаяся пыль",
+                count = 9,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:21008:0:0:0:0:0:0:0:6|h[Испачканные ботинки]|h|r",
+                name = "Испачканные ботинки",
                 count = 1,
                 details = {
                     quality = 0,
