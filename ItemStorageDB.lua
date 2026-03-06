@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772824988
+ItemStorageDB_LastUpdate = 1772825109
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14408,7 +14408,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-03-06 21:19:15",
+        updated_at = "2026-03-06 21:24:51",
         money = 537,
         empty = 0,
         location = "Леса Вечной Песни",
@@ -14428,7 +14428,7 @@ ItemStorageDB = {
             {
                 link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:5|h[Сломанная ветвь]|h|r",
                 name = "Сломанная ветвь",
-                count = 38,
+                count = 41,
                 details = {
                     quality = 0,
                     type = "",
@@ -14440,7 +14440,7 @@ ItemStorageDB = {
             {
                 link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:5|h[Раздавленный цветок]|h|r",
                 name = "Раздавленный цветок",
-                count = 22,
+                count = 24,
                 details = {
                     quality = 0,
                     type = "",
