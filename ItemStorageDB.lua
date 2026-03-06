@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772827256
+ItemStorageDB_LastUpdate = 1772827318
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11363,7 +11363,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-06 18:50:53",
+        updated_at = "2026-03-06 22:01:30",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12061,18 +12061,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15307:929:0:0:0:0:89:0:10|h[Дикий кулачный щит с печатью защиты]|h|r",
-                name = "Дикий кулачный щит с печатью защиты",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "14",
                     retention = "",
                 },
             },
