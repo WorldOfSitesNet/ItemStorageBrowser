@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772913598
+ItemStorageDB_LastUpdate = 1772913629
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4772,7 +4772,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-06 19:51:37",
+        updated_at = "2026-03-07 21:59:57",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5116,7 +5116,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -5126,8 +5126,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19287:0:0:0:0:0:0:0:10|h[Карта Новолуния: Героизм]|h|r",
-                name = "Карта Новолуния: Героизм",
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
                 count = 1,
                 details = {
                     quality = 4,
@@ -5138,8 +5138,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19290:0:0:0:0:0:0:0:10|h[Карта Новолуния: Круговерть Пустоты]|h|r",
-                name = "Карта Новолуния: Круговерть Пустоты",
+                link = "|cffa335ee|Hitem:19287:0:0:0:0:0:0:0:10|h[Карта Новолуния: Героизм]|h|r",
+                name = "Карта Новолуния: Героизм",
                 count = 1,
                 details = {
                     quality = 4,
@@ -5162,8 +5162,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
-                name = "Карта Новолуния: Синий Дракон",
+                link = "|cffa335ee|Hitem:19290:0:0:0:0:0:0:0:10|h[Карта Новолуния: Круговерть Пустоты]|h|r",
+                name = "Карта Новолуния: Круговерть Пустоты",
                 count = 1,
                 details = {
                     quality = 4,
@@ -5174,21 +5174,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 6,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -5198,9 +5186,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 5,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "",
@@ -5308,19 +5308,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                 name = "Двойка из колоды Разбойников",
-                count = 36,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
-                name = "Тройка из колоды Разбойников",
-                count = 11,
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -5332,7 +5320,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 36,
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
