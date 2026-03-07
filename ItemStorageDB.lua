@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772914204
+ItemStorageDB_LastUpdate = 1772914356
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17855,7 +17855,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-07 21:53:29",
+        updated_at = "2026-03-07 22:12:23",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18161,102 +18161,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
-                name = "Сила Утера",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "47",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
-                name = "Сумка Шести Демонов",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "46",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
-                name = "Крест Жизни",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
-                name = "Пылающая эмблема",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
-                name = "Подвеска Агатового Щита",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
-                name = "Толстое бронзовое ожерелье",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:21768:0:0:0:0:0:781:0:10|h[Сапфировый перстень со знаком совы]|h|r",
                 name = "Сапфировый перстень со знаком совы",
                 count = 1,
@@ -18329,6 +18233,102 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
+                name = "Сила Утера",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
+                name = "Сумка Шести Демонов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "46",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
+                name = "Крест Жизни",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
+                name = "Пылающая эмблема",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
+                name = "Подвеска Агатового Щита",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
+                name = "Сверкающее ожерелье",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
+                name = "Толстое бронзовое ожерелье",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:760:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком совы",
                 count = 3,
@@ -18355,7 +18355,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1188:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком медведя",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
