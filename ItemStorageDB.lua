@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772905144
+ItemStorageDB_LastUpdate = 1772905299
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9194,7 +9194,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-06 21:44:15",
+        updated_at = "2026-03-07 19:39:04",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9382,7 +9382,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4407:0:0:0:0:0:0:0:10|h[Точный прицел]|h|r",
                 name = "Точный прицел",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "",
@@ -9459,18 +9459,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Жезл",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
-                name = "Двуствольный дробовик",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
                     required_level = "22",
                     retention = "",
                 },
@@ -11399,7 +11387,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-06 22:01:30",
+        updated_at = "2026-03-07 19:41:36",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11551,7 +11539,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5781:1892:0:0:0:0:0:0:10|h[Кираса из чешуи мурлока]|h|r",
                 name = "Кираса из чешуи мурлока",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -11713,18 +11701,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "17",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3198:20319:0:0:0:0:1191:0:10|h[Побитый боевой молот со знаком медведя]|h|r",
-                name = "Побитый боевой молот со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "18",
                     retention = "Двуручное",
                 },
             },
@@ -12019,7 +11995,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6467:856:0:0:0:0:0:0:10|h[Перчатки из искаженной чешуи]|h|r",
                 name = "Перчатки из искаженной чешуи",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -12413,18 +12389,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14569:929:0:0:0:0:0:0:10|h[Наручники дыбогривов]|h|r",
-                name = "Наручники дыбогривов",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15507:1886:0:0:0:0:1549:0:10|h[Наручи рубаки с печатью могущества]|h|r",
                 name = "Наручи рубаки с печатью могущества",
                 count = 1,
@@ -12725,6 +12689,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
+                name = "Кулачный щит лазутчика с печатью отражения",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9789:0:0:0:0:0:677:0:10|h[Разбойничьи набедренники со знаком тигра]|h|r",
                 name = "Разбойничьи набедренники со знаком тигра",
                 count = 1,
@@ -12881,18 +12857,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
-                name = "Кулачный щит лазутчика с печатью отражения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6539:0:0:0:0:0:759:0:10|h[Ивовый пояс со знаком совы]|h|r",
                 name = "Ивовый пояс со знаком совы",
                 count = 1,
@@ -12991,7 +12955,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14565:0:0:0:0:0:0:0:10|h[Короткие штаны геолога]|h|r",
                 name = "Короткие штаны геолога",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
