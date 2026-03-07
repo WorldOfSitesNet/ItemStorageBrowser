@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772901987
+ItemStorageDB_LastUpdate = 1772902019
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16730,7 +16730,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-06 22:00:06",
+        updated_at = "2026-03-07 18:46:48",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16936,6 +16936,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
+                name = "Алые рукавицы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "33",
                     retention = "",
                 },
             },
