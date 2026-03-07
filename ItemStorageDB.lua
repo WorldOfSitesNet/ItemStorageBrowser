@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772904057
+ItemStorageDB_LastUpdate = 1772904119
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-07 18:46:03",
+        updated_at = "2026-03-07 19:21:33",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2042,6 +2042,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "48",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:9391:0:0:0:0:0:0:0:10|h[Копатель]|h|r",
+                name = "Копатель",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "32",
+                    retention = "Двуручное",
                 },
             },
             {
