@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772902337
+ItemStorageDB_LastUpdate = 1772902369
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10100,7 +10100,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-06 19:07:38",
+        updated_at = "2026-03-07 18:52:43",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10382,6 +10382,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                name = "Рецепт: эликсир силы огра",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
                 name = "Рецепт: эликсир излечения",
                 count = 1,
@@ -10550,6 +10562,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:16214:0:0:0:0:0:0:0:10|h[Формула: зачаровывание браслетов - интеллект, III ступень]|h|r",
+                name = "Формула: зачаровывание браслетов - интеллект, III ступень",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11208:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель демонов]|h|r",
                 name = "Формула чар для оружия - истребитель демонов",
                 count = 1,
@@ -10682,18 +10706,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                name = "Рецепт: эликсир силы огра",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:13493:0:0:0:0:0:0:0:10|h[Рецепт: сильный чародейский эликсир]|h|r",
                 name = "Рецепт: сильный чародейский эликсир",
                 count = 1,
@@ -10792,19 +10804,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
                 name = "Формула чар для обуви - выносливость IV",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:16214:0:0:0:0:0:0:0:10|h[Формула: зачаровывание браслетов - интеллект, III ступень]|h|r",
-                name = "Формула: зачаровывание браслетов - интеллект, III ступень",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
