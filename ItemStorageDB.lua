@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772901893
+ItemStorageDB_LastUpdate = 1772901987
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-06 22:00:49",
+        updated_at = "2026-03-07 18:46:03",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1865,6 +1865,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:2915:34:0:0:0:0:0:0:10|h[Ледоруб Таруна]|h|r",
+                name = "Ледоруб Таруна",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "47",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
                 name = "Канг Обезглавливатель",
                 count = 1,
@@ -1901,6 +1913,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
+                name = "Огненная секира",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "35",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
                 name = "Меч рвения",
                 count = 1,
@@ -1933,18 +1957,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "56",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
-                name = "Протыкатель Тенеследа",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "52",
                     retention = "Одноручное",
                 },
             },
@@ -2030,18 +2042,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "48",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:2915:34:0:0:0:0:0:0:10|h[Ледоруб Таруна]|h|r",
-                name = "Ледоруб Таруна",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "47",
-                    retention = "Двуручное",
                 },
             },
             {
@@ -2335,7 +2335,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2669,6 +2669,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
+                name = "Протыкатель Тенеследа",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
                 name = "Убийственный клинок",
                 count = 2,
@@ -2737,6 +2749,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "42",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
+                name = "Клинок фанатика",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "29",
                     retention = "Одноручное",
                 },
             },
@@ -2881,18 +2905,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "31",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
-                name = "Клинок фанатика",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "29",
                     retention = "Одноручное",
                 },
             },
