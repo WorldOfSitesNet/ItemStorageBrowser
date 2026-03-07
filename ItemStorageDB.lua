@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772903112
+ItemStorageDB_LastUpdate = 1772903173
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16778,7 +16778,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-07 19:04:10",
+        updated_at = "2026-03-07 19:06:03",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17036,18 +17036,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
-                name = "Перчатки Старины",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
                 count = 2,
@@ -17288,14 +17276,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
-                name = "Забытые напульсники",
-                count = 1,
+                link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
+                name = "Наручники Раздробленного хребта",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
+                name = "Перчатки Старины",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "41",
+                    required_level = "29",
                     retention = "",
                 },
             },
@@ -17428,18 +17428,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
-                name = "Наручники Раздробленного хребта",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "36",
                     retention = "",
                 },
             },
