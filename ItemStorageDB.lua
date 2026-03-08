@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772985019
+ItemStorageDB_LastUpdate = 1772985172
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11183,7 +11183,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-08 14:07:16",
+        updated_at = "2026-03-08 17:52:45",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11993,18 +11993,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6550:929:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
-                name = "Солдатские накулачники со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9771:931:0:0:0:0:848:0:10|h[Зеленотканые перчатки со знаком орла]|h|r",
                 name = "Зеленотканые перчатки со знаком орла",
                 count = 2,
@@ -12341,18 +12329,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6558:0:0:0:0:0:841:0:10|h[Пояс барда со знаком орла]|h|r",
-                name = "Пояс барда со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14165:0:0:0:0:0:766:0:10|h[Языческие брюки со знаком совы]|h|r",
                 name = "Языческие брюки со знаком совы",
                 count = 1,
@@ -12509,18 +12485,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-20:6:10|h[Жилет Новолуния с печатью могущества]|h|r",
-                name = "Жилет Новолуния с печатью могущества",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
                 name = "Жилет Новолуния со знаком ловкости",
                 count = 3,
@@ -12541,6 +12505,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9818:0:0:0:0:0:1192:0:10|h[Укрепленная кольчуга со знаком медведя]|h|r",
+                name = "Укрепленная кольчуга со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "20",
                     retention = "",
                 },
             },
