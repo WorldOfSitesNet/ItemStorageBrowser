@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773004428
+ItemStorageDB_LastUpdate = 1773004493
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-08 21:52:25",
+        updated_at = "2026-03-08 23:14:41",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2407,7 +2407,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
