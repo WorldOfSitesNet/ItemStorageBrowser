@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773038819
+ItemStorageDB_LastUpdate = 1773038912
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9860,7 +9860,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-09 08:45:20",
+        updated_at = "2026-03-09 08:47:30",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10142,6 +10142,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:10603:0:0:0:0:0:0:0:10|h[Схема: ультра-очки \"Кошачий глаз\"]|h|r",
+                name = "Схема: ультра-очки \"Кошачий глаз\"",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:10601:0:0:0:0:0:0:0:10|h[Схема: яркоглазые очки]|h|r",
                 name = "Схема: яркоглазые очки",
                 count = 1,
@@ -10154,8 +10166,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4414:0:0:0:0:0:0:0:10|h[Схема: переносной бронзовый миномет]|h|r",
-                name = "Схема: переносной бронзовый миномет",
+                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
+                name = "Формула чар для щита - броня",
                 count = 1,
                 details = {
                     quality = 2,
@@ -10286,6 +10298,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4414:0:0:0:0:0:0:0:10|h[Схема: переносной бронзовый миномет]|h|r",
+                name = "Схема: переносной бронзовый миномет",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4412:0:0:0:0:0:0:0:10|h[Схема: лунная винтовка]|h|r",
                 name = "Схема: лунная винтовка",
                 count = 1,
@@ -10391,6 +10415,18 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "30",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "8",
+                    retention = "",
                 },
             },
             {
@@ -10504,18 +10540,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6375:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух II]|h|r",
                 name = "Формула чар для наручей - дух II",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
-                name = "Формула чар для щита - броня",
                 count = 1,
                 details = {
                     quality = 2,
@@ -10654,18 +10678,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
                     retention = "",
                 },
             },
@@ -13082,7 +13094,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-09 08:14:11",
+        updated_at = "2026-03-09 08:48:20",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13174,7 +13186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 62,
+                count = 65,
                 details = {
                     quality = 1,
                     type = "",
@@ -13186,7 +13198,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 61,
+                count = 63,
                 details = {
                     quality = 1,
                     type = "",
@@ -13199,6 +13211,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
                 count = 152,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                name = "Шелковый материал",
+                count = 984,
                 details = {
                     quality = 1,
                     type = "",
@@ -13294,7 +13318,31 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1212,
+                count = 1312,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
+                name = "Рулон льняной ткани",
+                count = 218,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
@@ -13316,45 +13364,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                name = "Рулон льняной ткани",
-                count = 213,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
-                count = 298,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                name = "Шелковый материал",
-                count = 934,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 250,
+                count = 301,
                 details = {
                     quality = 1,
                     type = "",
