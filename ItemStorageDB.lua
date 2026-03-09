@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1773039877
+ItemStorageDB_LastUpdate = 1773039910
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-07 22:09:18",
+        updated_at = "2026-03-09 09:04:58",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -472,18 +472,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42906:0:0:0:0:0:0:0:10|h[Символ ледяной ловушки]|h|r",
-                name = "Символ ледяной ловушки",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "28",
                     retention = "",
                 },
             },
@@ -1240,6 +1228,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42906:0:0:0:0:0:0:0:10|h[Символ ледяной ловушки]|h|r",
+                name = "Символ ледяной ловушки",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "28",
                     retention = "",
                 },
             },
