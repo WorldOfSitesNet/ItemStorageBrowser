@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773090038
+ItemStorageDB_LastUpdate = 1773090340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9944,7 +9944,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-09 16:04:07",
+        updated_at = "2026-03-09 23:05:27",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10811,18 +10811,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "29",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6045:0:0:0:0:0:0:0:10|h[Чертеж: железный противовес]|h|r",
-                name = "Чертеж: железный противовес",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
                 },
             },
             {
