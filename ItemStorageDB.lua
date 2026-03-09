@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773039659
+ItemStorageDB_LastUpdate = 1773039721
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5321,7 +5321,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-09 08:49:30",
+        updated_at = "2026-03-09 09:01:33",
         money = 330484,
         empty = 0,
         location = "Оргриммар",
@@ -5330,6 +5330,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
                 count = 1747,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
+                name = "Глубокоскальная соль",
+                count = 105,
                 details = {
                     quality = 1,
                     type = "",
@@ -5567,9 +5579,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
-                name = "Легкое перышко",
-                count = 50,
+                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
+                name = "Обрывки кожи",
+                count = 23,
                 details = {
                     quality = 1,
                     type = "",
@@ -5591,9 +5603,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
-                name = "Обрывки кожи",
-                count = 23,
+                link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
+                name = "Легкое перышко",
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -5966,18 +5978,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
                 name = "Чешуя скорпида",
                 count = 67,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
-                name = "Глубокоскальная соль",
-                count = 100,
                 details = {
                     quality = 1,
                     type = "",
