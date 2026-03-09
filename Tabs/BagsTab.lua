@@ -284,12 +284,12 @@ local function RegisterBagsTab()
 
                             local countText = itemFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
                             countText:SetPoint("LEFT", itemButton, "RIGHT", 10, 0)
-                            countText:SetText("x" .. item.count .. " (" .. character.name .. ")")
+                            countText:SetText("x" .. item.count)
 
                             yOffset = yOffset - 30
-
+                        
                         end
-
+                    
                     end
 
                 end
