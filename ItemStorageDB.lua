@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773065241
+ItemStorageDB_LastUpdate = 1773065334
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-09 14:18:06",
+        updated_at = "2026-03-09 16:08:29",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1937,18 +1937,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 2,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -1987,7 +1975,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                 name = "Рапира из быстростали",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2545,6 +2533,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 2,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
                     retention = "",
                 },
             },
@@ -18059,7 +18059,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-09 08:58:30",
+        updated_at = "2026-03-09 16:07:23",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18137,6 +18137,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
+                name = "Калейдоскопическая цепь",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
                 name = "Амулет проницательности",
                 count = 2,
@@ -18209,18 +18221,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:21768:0:0:0:0:0:1122:0:10|h[Сапфировый перстень со знаком вепря]|h|r",
-                name = "Сапфировый перстень со знаком вепря",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:21752:0:0:0:0:0:0:0:10|h[Ториевая оправа]|h|r",
                 name = "Ториевая оправа",
                 count = 9,
@@ -18265,6 +18265,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
+                name = "Бриллиантовое кольцо концентрации",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "48",
                     retention = "",
                 },
             },
@@ -18365,6 +18377,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:21768:0:0:0:0:0:1122:0:10|h[Сапфировый перстень со знаком вепря]|h|r",
+                name = "Сапфировый перстень со знаком вепря",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:21768:0:0:0:0:0:781:0:10|h[Сапфировый перстень со знаком совы]|h|r",
                 name = "Сапфировый перстень со знаком совы",
                 count = 1,
@@ -18425,14 +18449,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
-                name = "Самоцвет Королевы",
-                count = 5,
+                link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
+                name = "Кольцо очищения",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "25",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -18533,14 +18557,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
-                name = "Бриллиантовое кольцо концентрации",
-                count = 1,
+                link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
+                name = "Самоцвет Королевы",
+                count = 5,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "48",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -18613,18 +18637,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
-                name = "Кольцо очищения",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "18",
                     retention = "",
                 },
             },
