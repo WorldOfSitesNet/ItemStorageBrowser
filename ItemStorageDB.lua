@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773041950
+ItemStorageDB_LastUpdate = 1773041982
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9026,7 +9026,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-09 09:10:17",
+        updated_at = "2026-03-09 09:39:28",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9070,7 +9070,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "2",
@@ -9136,18 +9136,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
-                name = "Крупнокалиберный дробовик",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "53",
                     retention = "",
                 },
             },
@@ -9356,38 +9344,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
-                name = "Факел Остен",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
-                name = "Арбалет Ищущий Сердце",
-                count = 4,
+                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
+                name = "Быстроветр",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Арбалет",
-                    required_level = "51",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
-                name = "Выдавливатель внутренностей",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "45",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -9424,6 +9388,54 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
+                name = "Крупнокалиберный дробовик",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
+                name = "Факел Остен",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
+                name = "Арбалет Ищущий Сердце",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "51",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
+                name = "Выдавливатель внутренностей",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "45",
                     retention = "",
                 },
             },
@@ -9472,18 +9484,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
-                name = "Быстроветр",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "35",
                     retention = "",
                 },
             },
