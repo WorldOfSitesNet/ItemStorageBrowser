@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773058710
+ItemStorageDB_LastUpdate = 1773058862
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16526,7 +16526,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-09 14:15:58",
+        updated_at = "2026-03-09 14:20:58",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16780,6 +16780,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
+                name = "Укрепленные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "22",
                     retention = "",
                 },
             },
