@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773041736
+ItemStorageDB_LastUpdate = 1773041797
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5321,7 +5321,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-09 09:01:33",
+        updated_at = "2026-03-09 09:36:36",
         money = 330484,
         empty = 0,
         location = "Оргриммар",
@@ -5521,7 +5521,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4231:0:0:0:0:0:0:0:10|h[Обработанная легкая шкура]|h|r",
                 name = "Обработанная легкая шкура",
-                count = 44,
+                count = 74,
                 details = {
                     quality = 1,
                     type = "",
@@ -5579,6 +5579,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
+                name = "Легкое перышко",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
                 name = "Обрывки кожи",
                 count = 23,
@@ -5594,18 +5606,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:15846:0:0:0:0:0:0:0:10|h[Солонка]|h|r",
                 name = "Солонка",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
-                name = "Легкое перышко",
-                count = 50,
                 details = {
                     quality = 1,
                     type = "",
