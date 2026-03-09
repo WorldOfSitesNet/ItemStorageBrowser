@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773040198
+ItemStorageDB_LastUpdate = 1773040229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9002,7 +9002,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-08 23:13:43",
+        updated_at = "2026-03-09 09:10:17",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9112,6 +9112,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
+                name = "Крупнокалиберный дробовик",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "53",
                     retention = "",
                 },
             },
@@ -9320,18 +9332,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
-                name = "Крупнокалиберный дробовик",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                 name = "Факел Остен",
                 count = 4,
@@ -9364,18 +9364,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
-                name = "Быстроветр",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "35",
                     retention = "",
                 },
             },
@@ -9460,6 +9448,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
+                name = "Быстроветр",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "35",
                     retention = "",
                 },
             },
