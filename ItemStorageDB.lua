@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773038568
+ItemStorageDB_LastUpdate = 1773038600
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11207,7 +11207,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-08 17:52:45",
+        updated_at = "2026-03-09 08:43:05",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12353,6 +12353,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2583:3858:0:0:0:0:0:0:10|h[Шерстяные сапоги]|h|r",
+                name = "Шерстяные сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:14165:0:0:0:0:0:766:0:10|h[Языческие брюки со знаком совы]|h|r",
                 name = "Языческие брюки со знаком совы",
                 count = 1,
@@ -12373,6 +12385,54 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
+                name = "Жилет Новолуния со знаком ловкости",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
+                name = "Жилет Новолуния со знаком тигра",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9818:0:0:0:0:0:1192:0:10|h[Укрепленная кольчуга со знаком медведя]|h|r",
+                name = "Укрепленная кольчуга со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
+                name = "Кулачный щит лазутчика с печатью отражения",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -12505,54 +12565,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
-                name = "Жилет Новолуния со знаком ловкости",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
-                name = "Жилет Новолуния со знаком тигра",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9818:0:0:0:0:0:1192:0:10|h[Укрепленная кольчуга со знаком медведя]|h|r",
-                name = "Укрепленная кольчуга со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
-                name = "Кулачный щит лазутчика с печатью отражения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "17",
                     retention = "",
                 },
             },
