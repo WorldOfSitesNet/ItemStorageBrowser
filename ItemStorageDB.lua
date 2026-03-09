@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773039411
+ItemStorageDB_LastUpdate = 1773039535
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17879,7 +17879,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-08 12:06:31",
+        updated_at = "2026-03-09 08:58:30",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18089,14 +18089,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
-                name = "Бриллиантовое кольцо концентрации",
+                link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
+                name = "Иридиевый обруч со знаком совы",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "48",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -18353,6 +18353,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
+                name = "Бриллиантовое кольцо концентрации",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:760:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком совы",
                 count = 3,
@@ -18427,7 +18439,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
