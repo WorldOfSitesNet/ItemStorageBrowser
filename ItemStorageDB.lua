@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773064626
+ItemStorageDB_LastUpdate = 1773064868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13475,7 +13475,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-09 15:53:23",
+        updated_at = "2026-03-09 16:01:05",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -13687,7 +13687,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 186,
+                count = 198,
                 details = {
                     quality = 1,
                     type = "",
@@ -13699,7 +13699,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 100,
+                count = 114,
                 details = {
                     quality = 1,
                     type = "",
@@ -13723,7 +13723,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 211,
+                count = 227,
                 details = {
                     quality = 1,
                     type = "",
@@ -13747,7 +13747,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 213,
+                count = 235,
                 details = {
                     quality = 1,
                     type = "",
@@ -13759,7 +13759,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 175,
+                count = 187,
                 details = {
                     quality = 1,
                     type = "",
@@ -13783,7 +13783,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 171,
+                count = 221,
                 details = {
                     quality = 1,
                     type = "",
@@ -13855,7 +13855,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 234,
+                count = 237,
                 details = {
                     quality = 1,
                     type = "",
@@ -13973,18 +13973,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
-                name = "Сквернопля",
-                count = 328,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
                 count = 133,
@@ -14084,6 +14072,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                 name = "Морозник",
                 count = 49,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
+                name = "Сквернопля",
+                count = 328,
                 details = {
                     quality = 1,
                     type = "",
