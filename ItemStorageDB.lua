@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773087384
+ItemStorageDB_LastUpdate = 1773087776
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-09 16:08:29",
+        updated_at = "2026-03-09 22:22:54",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1873,18 +1873,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "39",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
-                name = "Огненная секира",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "35",
                     retention = "Двуручное",
                 },
             },
@@ -2683,7 +2671,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                 name = "Короткий меч Ночного Дозора",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
