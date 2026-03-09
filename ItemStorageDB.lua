@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773057373
+ItemStorageDB_LastUpdate = 1773057465
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8753,7 +8753,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-09 09:08:58",
+        updated_at = "2026-03-09 13:57:24",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -8887,18 +8887,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "77",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-91:65:10|h[Перстень грез с меткой стрелка]|h|r",
-                name = "Перстень грез с меткой стрелка",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "78",
                     retention = "",
                 },
             },
