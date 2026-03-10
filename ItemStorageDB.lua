@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773165055
+ItemStorageDB_LastUpdate = 1773165148
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4211,7 +4211,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-10 19:16:46",
+        updated_at = "2026-03-10 19:52:11",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4313,11 +4313,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
-                name = "Грубый камень",
-                count = 550,
+                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
+                name = "Искрящийся самоцвет бури",
+                count = 1,
                 details = {
-                    quality = 1,
+                    quality = 4,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -4325,11 +4325,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
-                name = "Искрящийся самоцвет бури",
-                count = 1,
+                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
+                name = "Грубый камень",
+                count = 550,
                 details = {
-                    quality = 4,
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -4363,7 +4363,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 430,
+                count = 431,
                 details = {
                     quality = 2,
                     type = "",
@@ -13274,7 +13274,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-10 19:23:34",
+        updated_at = "2026-03-10 19:51:09",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13414,7 +13414,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 718,
+                count = 768,
                 details = {
                     quality = 1,
                     type = "",
@@ -13520,30 +13520,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 900,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                name = "Рулон льняной ткани",
-                count = 218,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
                 count = 250,
@@ -13559,6 +13535,30 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 301,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 900,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
+                name = "Рулон льняной ткани",
+                count = 218,
                 details = {
                     quality = 1,
                     type = "",
