@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773164377
+ItemStorageDB_LastUpdate = 1773164448
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5345,7 +5345,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-10 00:28:50",
+        updated_at = "2026-03-10 19:40:13",
         money = 330484,
         empty = 0,
         location = "Оргриммар",
@@ -5353,7 +5353,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 1889,
+                count = 1962,
                 details = {
                     quality = 1,
                     type = "",
@@ -5519,9 +5519,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:15846:0:0:0:0:0:0:0:10|h[Солонка]|h|r",
+                name = "Солонка",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
+                name = "Обрывки кожи",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 889,
+                count = 739,
                 details = {
                     quality = 1,
                     type = "",
@@ -5557,7 +5581,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 248,
+                count = 249,
                 details = {
                     quality = 1,
                     type = "",
@@ -5627,33 +5651,33 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15846:0:0:0:0:0:0:0:10|h[Солонка]|h|r",
-                name = "Солонка",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
-                name = "Обрывки кожи",
-                count = 53,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 790,
+                count = 590,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
+                name = "Тяжелая шкура",
+                count = 121,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
+                name = "Шкура ящера",
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -5903,30 +5927,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
-                name = "Тяжелая шкура",
-                count = 121,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
-                name = "Шкура ящера",
-                count = 50,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:15416:0:0:0:0:0:0:0:10|h[Чешуя черного дракона]|h|r",
                 name = "Чешуя черного дракона",
                 count = 6,
@@ -6037,7 +6037,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 305,
+                count = 306,
                 details = {
                     quality = 1,
                     type = "",
