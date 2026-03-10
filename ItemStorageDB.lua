@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773167685
+ItemStorageDB_LastUpdate = 1773167779
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9956,7 +9956,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-10 19:55:35",
+        updated_at = "2026-03-10 20:36:03",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10007,6 +10007,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "44",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:7976:0:0:0:0:0:0:0:10|h[Чертеж: мифриловый шип для щита]|h|r",
+                name = "Чертеж: мифриловый шип для щита",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
                 },
             },
             {
@@ -10214,14 +10226,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6271:0:0:0:0:0:0:0:10|h[Выкройка: красный льняной жилет]|h|r",
-                name = "Выкройка: красный льняной жилет",
-                count = 2,
+                link = "|cff1eff00|Hitem:11225:0:0:0:0:0:0:0:10|h[Формула чар для наручей - выносливость IV]|h|r",
+                name = "Формула чар для наручей - выносливость IV",
+                count = 1,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "7",
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10324,7 +10336,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5786:0:0:0:0:0:0:0:10|h[Выкройка: пояс из чешуи мурлока]|h|r",
                 name = "Выкройка: пояс из чешуи мурлока",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "4",
@@ -10402,6 +10414,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9294:0:0:0:0:0:0:0:10|h[Рецепт: зелье из дикой лозы]|h|r",
+                name = "Рецепт: зелье из дикой лозы",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -10502,14 +10526,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11225:0:0:0:0:0:0:0:10|h[Формула чар для наручей - выносливость IV]|h|r",
-                name = "Формула чар для наручей - выносливость IV",
-                count = 1,
+                link = "|cff1eff00|Hitem:6271:0:0:0:0:0:0:0:10|h[Выкройка: красный льняной жилет]|h|r",
+                name = "Выкройка: красный льняной жилет",
+                count = 2,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "7",
                     retention = "",
                 },
             },
@@ -10631,6 +10655,18 @@ ItemStorageDB = {
                     subtype = "",
                     required_level = "10",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3866:0:0:0:0:0:0:0:10|h[Чертеж: нефритовый змеиный клинок]|h|r",
+                name = "Чертеж: нефритовый змеиный клинок",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "30",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -10766,18 +10802,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9294:0:0:0:0:0:0:0:10|h[Рецепт: зелье из дикой лозы]|h|r",
-                name = "Рецепт: зелье из дикой лозы",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4408:0:0:0:0:0:0:0:10|h[Схема: коробка с механической белкой]|h|r",
                 name = "Схема: коробка с механической белкой",
                 count = 2,
@@ -10847,18 +10871,6 @@ ItemStorageDB = {
                     subtype = "Кольчуга",
                     required_level = "35",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3866:0:0:0:0:0:0:0:10|h[Чертеж: нефритовый змеиный клинок]|h|r",
-                name = "Чертеж: нефритовый змеиный клинок",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "30",
-                    retention = "Одноручное",
                 },
             },
         },
@@ -18107,7 +18119,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-10 19:18:09",
+        updated_at = "2026-03-10 20:34:56",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18281,6 +18293,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
+                name = "Цельное бронзовое кольцо",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
                 name = "Элегантное серебряное кольцо",
                 count = 4,
@@ -18313,6 +18337,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
+                name = "Толстое бронзовое ожерелье",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -18421,18 +18457,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
-                name = "Цельное бронзовое кольцо",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
                     retention = "",
                 },
             },
@@ -18605,18 +18629,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
-                name = "Толстое бронзовое ожерелье",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 5,
@@ -18691,6 +18703,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:761:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком совы",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:675:0:10|h[Тяжелое серебряное кольцо со знаком тигра]|h|r",
+                name = "Тяжелое серебряное кольцо со знаком тигра",
                 count = 1,
                 details = {
                     quality = 3,
