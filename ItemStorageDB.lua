@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773165148
+ItemStorageDB_LastUpdate = 1773165210
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-09 22:22:54",
+        updated_at = "2026-03-10 19:53:10",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1913,18 +1913,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
-                name = "Убийственный клинок",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -1945,18 +1933,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "15",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:9391:0:0:0:0:0:0:0:10|h[Копатель]|h|r",
-                name = "Копатель",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "32",
                     retention = "Двуручное",
                 },
             },
@@ -2345,18 +2321,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
-                name = "Поющий клинок Та-Киертан",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "52",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
                 count = 2,
@@ -2407,7 +2371,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13052:0:0:0:0:0:0:0:10|h[Наемник]|h|r",
                 name = "Наемник",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2537,6 +2501,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
+                name = "Убийственный клинок",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                 name = "Меч Ханзо",
                 count = 1,
@@ -2597,14 +2573,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1265:0:0:0:0:0:0:0:10|h[Жало скорпиона]|h|r",
-                name = "Жало скорпиона",
+                link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
+                name = "Черный рыцарь",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Меч",
-                    required_level = "34",
+                    required_level = "26",
                     retention = "Одноручное",
                 },
             },
@@ -2669,18 +2645,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                name = "Короткий меч Ночного Дозора",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "15",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
                 name = "Посох сильного магического огня",
                 count = 2,
@@ -2702,6 +2666,30 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "53",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
+                name = "Поющий клинок Та-Киертан",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1265:0:0:0:0:0:0:0:10|h[Жало скорпиона]|h|r",
+                name = "Жало скорпиона",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "34",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -2796,18 +2784,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Дробящее",
-                    required_level = "26",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
-                name = "Черный рыцарь",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
                     required_level = "26",
                     retention = "Одноручное",
                 },
