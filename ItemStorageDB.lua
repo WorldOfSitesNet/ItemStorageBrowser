@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773255937
+ItemStorageDB_LastUpdate = 1773256208
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3250,6 +3250,27 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "65",
+                    retention = "",
+                },
+            },
+        },
+    },
+    {
+        name = "Запределька",
+        updated_at = "2026-03-11 21:10:02",
+        money = 14,
+        empty = 0,
+        location = "Леса Вечной Песни",
+        items = {
+            {
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:2|h[Камень возвращения]|h|r",
+                name = "Камень возвращения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
