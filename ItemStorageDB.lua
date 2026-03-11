@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773256911
+ItemStorageDB_LastUpdate = 1773256972
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-11 20:22:40",
+        updated_at = "2026-03-11 21:22:31",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2597,18 +2597,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                name = "Клинок Многоглаза",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "15",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
                 count = 2,
@@ -2797,6 +2785,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "20",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                name = "Клинок Многоглаза",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "15",
                     retention = "Одноручное",
                 },
             },
