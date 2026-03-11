@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773248494
+ItemStorageDB_LastUpdate = 1773248526
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9419,7 +9419,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-11 18:54:42",
+        updated_at = "2026-03-11 19:02:05",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -9739,7 +9739,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
                 name = "Великая субстанция Пустоты",
-                count = 6,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -9751,7 +9751,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
                 name = "Простая субстанция Пустоты",
-                count = 2,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "",
