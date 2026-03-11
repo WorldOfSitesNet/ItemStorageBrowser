@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773258359
+ItemStorageDB_LastUpdate = 1773258631
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9941,7 +9941,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-11 19:03:15",
+        updated_at = "2026-03-11 21:50:18",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10471,30 +10471,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
-                name = "Рецепт: эликсир излечения",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3393:0:0:0:0:0:0:0:10|h[Рецепт: слабое зелье защиты от магии]|h|r",
-                name = "Рецепт: слабое зелье защиты от магии",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "12",
                     retention = "",
                 },
             },
