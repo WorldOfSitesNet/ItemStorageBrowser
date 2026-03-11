@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773256573
+ItemStorageDB_LastUpdate = 1773256635
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16823,7 +16823,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-11 20:21:35",
+        updated_at = "2026-03-11 21:17:03",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17323,7 +17323,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
                 name = "Наручники загонщика",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18079,7 +18079,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                 name = "Набедренники Ветрокрылых",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
