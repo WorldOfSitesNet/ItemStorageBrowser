@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773247446
+ItemStorageDB_LastUpdate = 1773247538
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18155,7 +18155,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-10 20:34:56",
+        updated_at = "2026-03-11 18:45:27",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18655,7 +18655,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
                 name = "Сверкающее ожерелье",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18739,18 +18739,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:761:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком совы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:675:0:10|h[Тяжелое серебряное кольцо со знаком тигра]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком тигра",
                 count = 1,
                 details = {
                     quality = 3,
