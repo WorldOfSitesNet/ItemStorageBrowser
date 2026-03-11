@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773249294
+ItemStorageDB_LastUpdate = 1773249325
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2840,7 +2840,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-10 20:40:35",
+        updated_at = "2026-03-11 19:15:01",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -2975,6 +2975,18 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "60",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37805:0:0:0:0:0:0:0:10|h[Величественный скипетр Мелии]|h|r",
+                name = "Величественный скипетр Мелии",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "75",
+                    retention = "",
                 },
             },
             {
