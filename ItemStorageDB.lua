@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773253312
+ItemStorageDB_LastUpdate = 1773253374
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-11 20:04:03",
+        updated_at = "2026-03-11 20:22:40",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1925,30 +1925,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
-                name = "Рапира из быстростали",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "36",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
-                name = "Небесный свет",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "40",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
                 name = "Кортик Новолуния",
                 count = 1,
@@ -2021,6 +1997,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:6660:0:0:0:0:0:0:0:10|h[Кинжал Джулии]|h|r",
+                name = "Кинжал Джулии",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "50",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
+                name = "Протыкатель Тенеследа",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
                 name = "Молот Макхоуэна",
                 count = 1,
@@ -2057,6 +2057,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
                 count = 2,
@@ -2081,26 +2105,50 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
+                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
+                name = "Эгида Штормграда",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Щит",
-                    required_level = "25",
+                    required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
+                name = "Фамильный щит Гарреттов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
+                name = "Зеленая башня",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 2,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
                     retention = "",
                 },
             },
@@ -2455,7 +2503,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2501,54 +2549,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
-                name = "Эгида Штормграда",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "49",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
-                name = "Фамильный щит Гарреттов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                name = "Зеленая башня",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 2,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -2585,6 +2585,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                name = "Короткий меч Ночного Дозора",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "15",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
                 count = 2,
@@ -2599,12 +2611,24 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Топор",
                     required_level = "18",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                name = "Зазубренный боевой топор",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "25",
                     retention = "Одноручное",
                 },
             },
@@ -2617,6 +2641,30 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "34",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                name = "Рапира из быстростали",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "36",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
+                name = "Небесный свет",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
