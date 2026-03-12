@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773334597
+ItemStorageDB_LastUpdate = 1773334719
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9605,7 +9605,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-12 18:48:25",
+        updated_at = "2026-03-12 18:58:10",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9887,6 +9887,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "8",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
                 count = 4,
@@ -9919,6 +9931,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16253:0:0:0:0:0:0:0:10|h[Формула: зачаровывание нагрудника - все характеристики, III ступень]|h|r",
+                name = "Формула: зачаровывание нагрудника - все характеристики, III ступень",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -9991,6 +10015,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                name = "Рецепт: эликсир силы огра",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
@@ -10127,18 +10163,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                name = "Рецепт: эликсир силы огра",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
                 name = "Чертеж: украшенные медные рукавицы",
                 count = 1,
@@ -10183,6 +10207,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:13492:0:0:0:0:0:0:0:10|h[Рецепт: зелье очищения]|h|r",
+                name = "Рецепт: зелье очищения",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "47",
                     retention = "",
                 },
             },
@@ -10255,18 +10291,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
                     retention = "",
                 },
             },
