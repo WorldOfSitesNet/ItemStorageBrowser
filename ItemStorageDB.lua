@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773341774
+ItemStorageDB_LastUpdate = 1773341806
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8714,6 +8714,27 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
                 count = 38,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+        },
+    },
+    {
+        name = "Нордочка",
+        updated_at = "2026-03-12 20:56:42",
+        money = 0,
+        empty = 0,
+        location = "Леса Вечной Песни",
+        items = {
+            {
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:1|h[Камень возвращения]|h|r",
+                name = "Камень возвращения",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
