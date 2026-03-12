@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773334969
+ItemStorageDB_LastUpdate = 1773335121
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9023,7 +9023,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-11 21:15:55",
+        updated_at = "2026-03-12 19:05:11",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9221,18 +9221,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
-                name = "Бронебойные мифриловые пули",
-                count = 5000,
-                details = {
-                    quality = 2,
-                    type = "6",
-                    subtype = "Пули",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                 name = "Ториевые патроны",
                 count = 20705,
@@ -9245,6 +9233,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
+                name = "Бронебойные мифриловые пули",
+                count = 5000,
+                details = {
+                    quality = 2,
+                    type = "6",
+                    subtype = "Пули",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
                 count = 5,
@@ -9252,6 +9252,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Жезл",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
+                name = "Двуствольный дробовик",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
                     required_level = "22",
                     retention = "",
                 },
@@ -9401,18 +9413,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
-                name = "Огнеиспускатель Джайны",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
                 count = 2,
@@ -9492,6 +9492,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
+                name = "Огнеиспускатель Джайны",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
                     required_level = "37",
                     retention = "",
                 },
