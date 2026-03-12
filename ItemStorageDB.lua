@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773341502
+ItemStorageDB_LastUpdate = 1773341683
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3269,23 +3269,11 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-12 04:24:22",
-        money = 177,
+        updated_at = "2026-03-12 20:54:25",
+        money = 4330,
         empty = 0,
-        location = "Леса Вечной Песни",
+        location = "Оргриммар",
         items = {
-            {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:6|h[Камень возвращения]|h|r",
-                name = "Камень возвращения",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
         },
     },
     {
