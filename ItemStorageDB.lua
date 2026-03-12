@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773345950
+ItemStorageDB_LastUpdate = 1773346013
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12971,7 +12971,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-03-11 23:12:46",
+        updated_at = "2026-03-12 22:06:35",
         money = 5468,
         empty = 0,
         location = "Оргриммар",
@@ -13097,18 +13097,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2735:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 11]|h|r",
-                name = "Зеленые холмы Тернистой долины: стр. 11",
-                count = 27,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2744:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 20]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 20",
                 count = 27,
@@ -13147,6 +13135,18 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 4",
+                count = 27,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2735:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 11]|h|r",
+                name = "Зеленые холмы Тернистой долины: стр. 11",
                 count = 27,
                 details = {
                     quality = 1,
