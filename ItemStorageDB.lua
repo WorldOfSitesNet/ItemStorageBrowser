@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1773437829
+ItemStorageDB_LastUpdate = 1773438041
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-13 22:20:05",
+        updated_at = "2026-03-13 23:40:12",
         money = 9404,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -382,7 +382,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45604:0:0:0:0:0:0:0:10|h[Символ дикого рева]|h|r",
                 name = "Символ дикого рева",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -778,7 +778,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:46372:0:0:0:0:0:0:0:10|h[Символ инстинкта выживания]|h|r",
                 name = "Символ инстинкта выживания",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -790,7 +790,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:48720:0:0:0:0:0:0:0:10|h[Символ когтя]|h|r",
                 name = "Символ когтя",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -814,7 +814,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -826,7 +826,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                 name = "Символ трепки",
-                count = 13,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -1196,174 +1196,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
-                name = "Символ пытки разума",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
-                name = "Символ внутреннего огня",
-                count = 19,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
-                name = "Символ слова силы: Щит",
-                count = 14,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:43371:0:0:0:0:0:0:0:10|h[Символ стойкости]|h|r",
-                name = "Символ стойкости",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41529:0:0:0:0:0:0:0:10|h[Символ тотема элементаля огня]|h|r",
-                name = "Символ тотема элементаля огня",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41524:0:0:0:0:0:0:0:10|h[Символ лавы]|h|r",
-                name = "Символ лавы",
-                count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "66",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:44923:0:0:0:0:0:0:0:10|h[Символ грома и молнии]|h|r",
-                name = "Символ грома и молнии",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45770:0:0:0:0:0:0:0:10|h[Символ грома]|h|r",
-                name = "Символ грома",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45776:0:0:0:0:0:0:0:10|h[Символ тотема гнева]|h|r",
-                name = "Символ тотема гнева",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
-                name = "Символ тотема каменного когтя",
-                count = 7,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
-                name = "Символ удара бури",
-                count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45775:0:0:0:0:0:0:0:10|h[Символ щита земли]|h|r",
-                name = "Символ щита земли",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41518:0:0:0:0:0:0:0:10|h[Символ цепной молнии]|h|r",
-                name = "Символ цепной молнии",
-                count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
-                name = "Символ оружия неистовства ветра",
-                count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
                 name = "Символ возложения рук",
                 count = 6,
@@ -1528,6 +1360,174 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
+                name = "Символ пытки разума",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
+                name = "Символ внутреннего огня",
+                count = 19,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
+                name = "Символ слова силы: Щит",
+                count = 14,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43371:0:0:0:0:0:0:0:10|h[Символ стойкости]|h|r",
+                name = "Символ стойкости",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41529:0:0:0:0:0:0:0:10|h[Символ тотема элементаля огня]|h|r",
+                name = "Символ тотема элементаля огня",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41524:0:0:0:0:0:0:0:10|h[Символ лавы]|h|r",
+                name = "Символ лавы",
+                count = 11,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "66",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44923:0:0:0:0:0:0:0:10|h[Символ грома и молнии]|h|r",
+                name = "Символ грома и молнии",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45770:0:0:0:0:0:0:0:10|h[Символ грома]|h|r",
+                name = "Символ грома",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45776:0:0:0:0:0:0:0:10|h[Символ тотема гнева]|h|r",
+                name = "Символ тотема гнева",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
+                name = "Символ тотема каменного когтя",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
+                name = "Символ удара бури",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45775:0:0:0:0:0:0:0:10|h[Символ щита земли]|h|r",
+                name = "Символ щита земли",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41518:0:0:0:0:0:0:0:10|h[Символ цепной молнии]|h|r",
+                name = "Символ цепной молнии",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
+                name = "Символ оружия неистовства ветра",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
                     retention = "",
                 },
             },
