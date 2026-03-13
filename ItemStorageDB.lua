@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773433772
+ItemStorageDB_LastUpdate = 1773433983
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16604,7 +16604,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-13 19:45:18",
+        updated_at = "2026-03-13 22:32:57",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16798,18 +16798,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                name = "Корона северного разбойника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "27",
                     retention = "",
                 },
             },
@@ -17788,7 +17776,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
