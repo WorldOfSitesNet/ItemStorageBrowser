@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423986
+ItemStorageDB_LastUpdate = 1773424109
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7067,7 +7067,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-13 19:34:49",
+        updated_at = "2026-03-13 19:48:10",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7189,6 +7189,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
+                name = "Большой флакон с зельем маны",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "41",
                     retention = "",
                 },
             },
@@ -7337,18 +7349,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
-                name = "Мощный эликсир силы",
-                count = 50,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:5996:0:0:0:0:0:0:0:10|h[Эликсир подводного дыхания]|h|r",
                 name = "Эликсир подводного дыхания",
                 count = 73,
@@ -7453,6 +7453,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
+                name = "Мощный эликсир силы",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -7589,14 +7601,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
-                name = "Эликсир власти",
-                count = 18,
+                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
+                name = "Эликсир великанов",
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "50",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -7733,6 +7745,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
+                name = "Эликсир власти",
+                count = 18,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
                 name = "Большой эликсир силы",
                 count = 17,
@@ -7856,18 +7880,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                 name = "Сильный эликсир ловкости",
                 count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
-                name = "Эликсир великанов",
-                count = 34,
                 details = {
                     quality = 1,
                     type = "",
@@ -12890,7 +12902,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-13 19:25:24",
+        updated_at = "2026-03-13 19:46:36",
         money = 59245,
         empty = 15,
         location = "Оргриммар",
@@ -12958,7 +12970,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 30,
+                count = 33,
                 details = {
                     quality = 2,
                     type = "",
@@ -12973,18 +12985,6 @@ ItemStorageDB = {
                 count = 90,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
-                name = "Заплечный мешок подмастерья",
-                count = 4,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -13009,6 +13009,18 @@ ItemStorageDB = {
                 count = 1,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
+                name = "Заплечный мешок подмастерья",
+                count = 4,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
