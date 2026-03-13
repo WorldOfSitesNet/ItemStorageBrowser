@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773346442
+ItemStorageDB_LastUpdate = 1773421825
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-12 20:10:30",
+        updated_at = "2026-03-12 23:04:38",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2611,7 +2611,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2729,6 +2729,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
                 name = "Черный рыцарь",
                 count = 1,
@@ -2810,18 +2822,6 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "52",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
                 },
             },
             {
@@ -11381,7 +11381,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-12 20:08:57",
+        updated_at = "2026-03-12 22:52:59",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11389,7 +11389,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "4",
@@ -11759,42 +11759,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
                 name = "Огненный жезл",
                 count = 2,
@@ -11827,6 +11791,42 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
                     retention = "",
                 },
             },
@@ -16592,7 +16592,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-12 20:12:02",
+        updated_at = "2026-03-12 23:03:32",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16966,18 +16966,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
-                name = "Искрящееся оплечье",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "24",
                     retention = "",
                 },
             },
@@ -17654,6 +17642,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
+                name = "Искрящееся оплечье",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "24",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
                 count = 2,
@@ -18029,7 +18029,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-12 19:02:21",
+        updated_at = "2026-03-12 23:06:43",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18253,7 +18253,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
                 name = "Цельное бронзовое кольцо",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18331,18 +18331,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -18529,7 +18517,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18649,18 +18637,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1018:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком кита",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1186:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком медведя",
                 count = 1,
                 details = {
                     quality = 3,
