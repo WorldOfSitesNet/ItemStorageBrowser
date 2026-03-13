@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423892
+ItemStorageDB_LastUpdate = 1773423924
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16640,7 +16640,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-12 23:03:32",
+        updated_at = "2026-03-13 19:45:18",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16910,7 +16910,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -16922,7 +16922,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17486,6 +17486,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
+                name = "Поножи осколка голема",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
                 name = "Поножи Огненной Гривы",
                 count = 2,
@@ -17906,18 +17918,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
-                name = "Поножи осколка голема",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:9434:0:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
                 name = "Облачение стихий",
                 count = 1,
@@ -18040,7 +18040,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
                 name = "Змеиный кушак",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
