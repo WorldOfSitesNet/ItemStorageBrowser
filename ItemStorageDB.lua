@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773436419
+ItemStorageDB_LastUpdate = 1773436624
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9200,7 +9200,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-13 19:33:10",
+        updated_at = "2026-03-13 23:16:01",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9466,18 +9466,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
-                name = "Большой магический жезл",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "13",
                     retention = "",
                 },
             },
