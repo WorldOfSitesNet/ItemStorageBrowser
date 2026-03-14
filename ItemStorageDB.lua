@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773516052
+ItemStorageDB_LastUpdate = 1773516177
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18041,7 +18041,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-14 20:15:03",
+        updated_at = "2026-03-14 21:22:44",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18049,7 +18049,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                 name = "Кольцо заморозки",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 4,
                     type = "4",
@@ -18179,6 +18179,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:21768:0:0:0:0:0:333:0:10|h[Сапфировый перстень с печатью выносливости]|h|r",
+                name = "Сапфировый перстень с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:21752:0:0:0:0:0:0:0:10|h[Ториевая оправа]|h|r",
                 name = "Ториевая оправа",
                 count = 9,
@@ -18187,6 +18199,54 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
+                name = "Кольцо сумеречных призраков",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
+                name = "Воля Азоры",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
+                name = "Серебряное кольцо могущества",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "21",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11983:0:0:0:0:0:760:0:10|h[Хромовое кольцо со знаком совы]|h|r",
+                name = "Хромовое кольцо со знаком совы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "21",
                     retention = "",
                 },
             },
@@ -18263,6 +18323,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
+                name = "Сверкающее ожерелье",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
                 name = "Толстое бронзовое ожерелье",
                 count = 4,
@@ -18319,66 +18391,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
-                name = "Кольцо сумеречных призраков",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
-                name = "Воля Азоры",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
-                name = "Серебряное кольцо могущества",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11983:0:0:0:0:0:760:0:10|h[Хромовое кольцо со знаком совы]|h|r",
-                name = "Хромовое кольцо со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:21768:0:0:0:0:0:333:0:10|h[Сапфировый перстень с печатью выносливости]|h|r",
-                name = "Сапфировый перстень с печатью выносливости",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "50",
                     retention = "",
                 },
             },
@@ -18463,18 +18475,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "39",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:761:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком совы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
                     retention = "",
                 },
             },
@@ -18565,7 +18565,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18637,6 +18637,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1018:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком кита",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:761:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
+                name = "Тяжелое серебряное кольцо со знаком совы",
                 count = 1,
                 details = {
                     quality = 3,
