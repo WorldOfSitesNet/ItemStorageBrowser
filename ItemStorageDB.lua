@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773499107
+ItemStorageDB_LastUpdate = 1773499589
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11393,7 +11393,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-13 23:17:10",
+        updated_at = "2026-03-14 16:46:11",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11807,6 +11807,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3039:0:0:0:0:0:0:0:10|h[Короткий ясеневый лук]|h|r",
+                name = "Короткий ясеневый лук",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "18",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
                 name = "Сфера Бусин с печатью исцеления",
                 count = 1,
@@ -12163,6 +12175,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15503:0:0:0:0:0:1190:0:10|h[Походные набедренники со знаком медведя]|h|r",
+                name = "Походные набедренники со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6581:0:0:0:0:0:589:0:10|h[Пояс лазутчика со знаком мартышки]|h|r",
+                name = "Пояс лазутчика со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "16",
                     retention = "",
                 },
             },
