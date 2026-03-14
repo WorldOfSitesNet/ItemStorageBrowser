@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773524641
+ItemStorageDB_LastUpdate = 1773524733
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4985,7 +4985,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-14 23:43:31",
+        updated_at = "2026-03-14 23:45:30",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5327,18 +5327,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
-                name = "Колода Демонов",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -5407,6 +5395,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
+                name = "Колода Демонов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
                     retention = "",
                 },
             },
