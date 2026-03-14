@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773513789
+ItemStorageDB_LastUpdate = 1773513851
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16604,7 +16604,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-14 20:34:50",
+        updated_at = "2026-03-14 20:44:08",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17938,18 +17938,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "19",
                     retention = "",
                 },
             },
